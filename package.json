@@ -1,0 +1,14 @@
+{
+  "name": "data-visualization-app",
+  "version": "1.0.0",
+  "description": "Application de visualisation de données en JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -p 8080"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  },
+  "author": "Merlin's Code",
+  "license": "MIT"
+}

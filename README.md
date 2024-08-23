@@ -18,6 +18,11 @@ Bienvenue dans **DataViz App** ! Ce projet te permet d'uploader un fichier CSV e
 - **Chart.js** : Pour faire des graphiques cool.
 - **http-server** : Serveur HTTP minimaliste pour faire tourner l'app en local.
 
+
+## 🚀 Live Preview
+
+Avant de cloner le repo, tu peux voir l'application en action ici : [Voir la démo en live](https://ton-utilisateur.github.io/data-visualization-app/)
+
 ## 🚀 Installation
 
 1. **Clone le repo** :

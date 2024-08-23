@@ -6,7 +6,7 @@ Bienvenue dans **DataViz App** ! Ce projet te permet d'uploader un fichier CSV e
 
 ## ✨ Features
 
-- **Upload de CSV** : File ton fichier CSV et regarde la magie opérer ✨.
+- **Upload de CSV** : Upload ton fichier CSV et regarde la magie opérer ✨.
 - **Graphiques dynamiques** : Visualise direct les données avec des graphes animés.
 - **UI moderne** : Un design clean avec des petites animations sympas pour l'expérience utilisateur.
 - **Lancement easy** : Un simple `npm start` et c'est parti!

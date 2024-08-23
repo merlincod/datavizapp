@@ -58,4 +58,4 @@ Tu veux customiser l'app ? Vas-y, modifie le CSS pour changer les couleurs, ajou
 
 Distribué sous la licence MIT. Fais-en ce que tu veux ! 🚀
 
-💻 Construit avec amour par Ton Nom
+💻 Construit avec amour par Merlin's Code

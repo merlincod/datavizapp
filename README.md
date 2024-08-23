@@ -21,7 +21,7 @@ Bienvenue dans **DataViz App** ! Ce projet te permet d'uploader un fichier CSV e
 
 ## 🚀 Live Preview
 
-Avant de cloner le repo, tu peux voir l'application en action ici : [Voir la démo en live](https://ton-utilisateur.github.io/data-visualization-app/)
+Avant de cloner le repo, tu peux voir l'application en action ici : [Voir la démo en live](https://merlincod.github.io/datavizapp/)
 
 ## 🚀 Installation
 
